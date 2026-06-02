@@ -18,6 +18,14 @@
 3. `test_roc_curve.png` - ROC曲线
 4. `test_pr_curve.png` - 精确率-召回率曲线
 
+![class distribution.png](class distribution.png)
+
+![test_confusion_matrix.png](test_confusion_matrix.png)
+
+![test roc_curve.png](test roc_curve.png)
+
+![test_pr_curve.png](test_pr_curve.png)
+
 **示例预测：**
 - "this movie is fantastic and amazing" → 正面 (置信度: 0.70)
 - "terrible film, waste of time" → 负面 (置信度: 0.81)
