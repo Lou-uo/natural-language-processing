@@ -18,11 +18,11 @@
 3. `test_roc_curve.png` - ROC曲线
 4. `test_pr_curve.png` - 精确率-召回率曲线
 
-![class distribution.png](class distribution.png)
+![class_distribution.png](class_distribution.png)
 
 ![test_confusion_matrix.png](test_confusion_matrix.png)
 
-![test roc_curve.png](test roc_curve.png)
+![test_roc_curve.png](test_roc_curve.png)
 
 ![test_pr_curve.png](test_pr_curve.png)
 
